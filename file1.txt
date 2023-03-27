@@ -4,5 +4,3 @@
  -shivu
  -parvathi
  -nandi
- -vishnu
- -parushuram
